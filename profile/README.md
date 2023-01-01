@@ -1,7 +1,7 @@
 ## Hi there 👋
 Convenient MCL Dev Team, developing projects about Minecraft. Have a look at Convenient MCL. 
-We are looking forward to pull your requests :).   
-<https://nwjs.io> <https://npmmirror.com>
+We are looking forward to pull your requests :).    
+<https://nwjs.io> <https://npmmirror.com>  
 🍿 Fun facts: 1% code was written at the school.
 
 
